@@ -1,0 +1,31 @@
+tr{
+    height: 52px;
+}
+
+td{
+    width: 71.5px;
+}
+
+button{
+    height: 35.1px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+
+.calc{
+    background-color: #3F4247;
+    color: white;
+}
+
+#visor{
+    height: 30px;
+    width: 297px;
+    text-align: right;
+    border-radius: 10px;
+}
+
+.numero {
+    background-color: #929293;
+    font-style: bold;
+}
